@@ -1,5 +1,5 @@
 # Mustererkennung
-Measured data is missing 
-Using FFT for spectrum analysing
-Using NNK for classification very basic of measured data 
-plotting Multivariate normal distribution of data
+Measured data is not included;
+Using FFT for spectrum analysing;
+Using basic NNK for classification;
+plotting Multivariate normal distribution of data;
